@@ -1,0 +1,476 @@
+{
+  "sections": {
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "16359276425da8ce46-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0518.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/staze_mobile_website.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "The Staze Preserve",
+            "title_size": 20,
+            "title_size_mobile": 24,
+            "use_h1": false,
+            "text": "<p>Keeping your goods fresher, longer. <\/p>",
+            "enlarge_text": false,
+            "button_label_1": "SHOP NOW",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16359276425da8ce46-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext<\/p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16359276425da8ce46-0",
+        "16359276425da8ce46-1"
+      ],
+      "settings": {
+        "height": "full",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow",
+        "slide_transition": "zoom",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "eabb35e2-bef6-4d11-b151-3781734028a7": {
+      "type": "collection-list",
+      "disabled": true,
+      "settings": {
+        "title": "Collection list",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": true,
+        "full_width": true
+      }
+    },
+    "b0a66b90-d42a-4229-b946-74d5f6f32177": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "collection": "all",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 3,
+        "rows": 1,
+        "use_alt_bg": true,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "16359278676808bea5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FEATURED PRODUCTS",
+        "collection": "all",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": false,
+        "full_width": true
+      }
+    },
+    "16359278867b92de38": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Light_Tight.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "A NEW ERA FOR STORAGE",
+        "use_h1": false,
+        "text": "<p>For optimal freshness, our vacuum sealing technology maintains the quality and consistency of your goods. Through this preservation process, the Staze Preserve eliminates any chance for air to escape leaving you with a premium experience every time. <\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "61800e72-5d4c-4094-9764-ba32f5f376b0": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Toke_and_Travel.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "LONGER LASTING, BETTER FLAVOR",
+        "use_h1": false,
+        "text": "<p>With a focus on the overall storage experience, the Staze Preserve uses a proprietary carbon filter to absorb any unwanted odors creating a complete smell proof environment.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "a1ba8693-aeca-475c-b1fd-4073a9e0ebe9": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "PRESS NEEDS TO GO HERE"
+      }
+    },
+    "a5bcce98-f9d7-47a4-b4d5-4b050eadbbed": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1812_copy.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "CONVENIENCE IS KEY",
+        "title_size": 20,
+        "title_size_mobile": 28,
+        "use_h1": false,
+        "text": "<p>Our smell proof jar is lightweight and durable making it perfectly crafted to take on any adventure.<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "SHOP NOW",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "0227d7f9-02d4-4b26-95ff-cc1a66640ab0": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16057768673449__0227d7f9-02d4-4b26-95ff-cc1a66640ab0-1677229925883e36ce-0": {
+          "type": "heading",
+          "settings": {
+            "title": "CELEBRATE A LITTLE LONGER",
+            "use_h1": false
+          }
+        },
+        "template--16057768673449__0227d7f9-02d4-4b26-95ff-cc1a66640ab0-1677229925883e36ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Be proud of what you’ve got, that is modern and minimal, designed to be discreet and eye-catching at the same time.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16057768673449__0227d7f9-02d4-4b26-95ff-cc1a66640ab0-1677229925883e36ce-0",
+        "template--16057768673449__0227d7f9-02d4-4b26-95ff-cc1a66640ab0-1677229925883e36ce-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "163592857728b8bdc2": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "163592857728b8bdc2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_2170.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>+ VACCUM SEAL<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "163592857728b8bdc2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_2171.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>+ SMELL PROOF<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "f4957a5f-b7f8-4c0f-bbd5-657120ee6261": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG_2172.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>+ UV RESISTANT<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "ee159cc6-6805-463d-bac4-040cdaddd9d4": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "",
+            "text": "<p>+ AESTHETIC DESIGN<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "cc1a91d2-8c3e-44c5-99bd-c05eb1a40942": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "",
+            "text": "<p>+ CHILD PROOF<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163592857728b8bdc2-0",
+        "163592857728b8bdc2-1",
+        "f4957a5f-b7f8-4c0f-bbd5-657120ee6261",
+        "ee159cc6-6805-463d-bac4-040cdaddd9d4",
+        "cc1a91d2-8c3e-44c5-99bd-c05eb1a40942"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "f3187e7e-1445-42a6-98d5-01cf56da9ba6": {
+      "type": "rich-text",
+      "blocks": {
+        "6988be9b-1105-4678-9401-1eb50401b141": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>SEE WHAT CUSTOMERS ARE SAYING<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "6988be9b-1105-4678-9401-1eb50401b141"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "left",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "blocks": {
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I get questions and compliments on my Staze jars all the time. People\nare always so intrigued by how it looks and especially when I tell them\nthat it’s vacuum sealed which keeps my herbs fresh!",
+            "author": "Genevieve S.",
+            "image_alignment": "top center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Seems to be good at smell-proofing, I put in some rather loud smelling material and my wife couldn't smell it at all(and I swear she has the nose of a bloodhound)”",
+            "author": "Hobb E.",
+            "image_alignment": "top left",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "376a3098-c1ea-4bd1-8672-849bf4a88a5d": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I love them. Bought them as stocking stuffers and kept one for myself.",
+            "author": "Barbara M.",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "5ce679fa-3ff1-4c11-ac77-26cd66d06323": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Amazing product! Works great... keeps air tight, great for travel or just to keep in your session area! Good people and great customer service.",
+            "author": "Mike P.",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "f4101454-16bd-4da3-8edb-5160eb26c374": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I've used a ton of jars over the years. I often default to glass, but I can say these containers are the real deal. They will keep your product fresh AF.",
+            "author": "Will M.",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "20057698-e4f1-481a-b1bd-fc916f951e28": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-0",
+        "16359281184fd0d618-1",
+        "376a3098-c1ea-4bd1-8672-849bf4a88a5d",
+        "5ce679fa-3ff1-4c11-ac77-26cd66d06323",
+        "f4101454-16bd-4da3-8edb-5160eb26c374",
+        "20057698-e4f1-481a-b1bd-fc916f951e28"
+      ],
+      "settings": {
+        "title": "FROM THE PEOPLE",
+        "layout": "no-image",
+        "text_caps": false,
+        "quote_text_size": 16,
+        "quote_text_size_mobile": 16,
+        "image_shape": "landscape",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "70a466f1-012d-484f-bf4d-5ef4bc7f9b42": {
+      "type": "gallery",
+      "blocks": {
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2209.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "DON'T STASH IT, DISPLAY IT",
+            "title": "Transform the way you store",
+            "button_label": "EXPLORE",
+            "link": "",
+            "text_alignment": "bottom center"
+          }
+        },
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2210.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Preserve potency and flavor",
+            "title": "The Science of Stash",
+            "button_label": "EXPLORE",
+            "link": "",
+            "text_alignment": "bottom center"
+          }
+        },
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2172.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "Staze distinct interpretation of the culture has bridged the gap between the evolution of consumption and a contemporary modern aesthetic",
+            "button_label": "LEARN MORE",
+            "link": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-2",
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-0",
+        "template--16057768673449__70a466f1-012d-484f-bf4d-5ef4bc7f9b42-1677374676088c6522-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 560,
+        "mobile_image_height": 460,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": false,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "16359276425da8ce46",
+    "eabb35e2-bef6-4d11-b151-3781734028a7",
+    "b0a66b90-d42a-4229-b946-74d5f6f32177",
+    "16359278676808bea5",
+    "16359278867b92de38",
+    "61800e72-5d4c-4094-9764-ba32f5f376b0",
+    "a1ba8693-aeca-475c-b1fd-4073a9e0ebe9",
+    "a5bcce98-f9d7-47a4-b4d5-4b050eadbbed",
+    "0227d7f9-02d4-4b26-95ff-cc1a66640ab0",
+    "163592857728b8bdc2",
+    "f3187e7e-1445-42a6-98d5-01cf56da9ba6",
+    "16359281184fd0d618",
+    "70a466f1-012d-484f-bf4d-5ef4bc7f9b42"
+  ]
+}
